@@ -2,5 +2,8 @@
 All sorts of c algorithms and programs.
 
 
-## Help needed
-This readme file needs to be edited.
+## Go Code
+Hacktoberfest is Back!!
+
+This is a beginner friendly repository. You can start ypur journey to Open Source contribution from this repository. 
+This repository is supporting C language programs 
